@@ -3,7 +3,8 @@
 Para poder entrar al endpoint hay que seguir esta serie de pasos 
 
 1 - Crear el entorno virtual
-    Poner esta linea de comando: py -m venv nombrequequierasdelentorno. /n
+    Poner esta linea de comando: py -m venv nombrequequierasdelentorno.  
+    
     Luego entrar al entorno con estos comandos: nombrequequierasdelentorno\Scripts\activate (en Windows)
 
 2 - Instalar las dependencias, poner los siguientes comandos para instalarlos:
