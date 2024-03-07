@@ -6,7 +6,8 @@ Para poder entrar al endpoint hay que seguir esta serie de pasos
     Poner esta linea de comando: py -m venv nombrequequierasdelentorno.  
     Luego entrar al entorno con estos comandos: nombrequequierasdelentorno\Scripts\activate (en Windows)
 
-2 - Instalar las dependencias, poner los siguientes comandos para instalarlos:
+2 - Instalar las dependencias, poner los siguientes comandos para instalarlos:  
+
     pip install django
     pip install django-rest-framework
     pip install django-cors-headers
