@@ -13,6 +13,8 @@ Para poder entrar al endpoint hay que seguir esta serie de pasos
     pip install django-cors-headers
     pip install pillow
 
-3 - Correr el proyecto con el siguiente comando: python manage.py runserver
+3 - Correr el proyecto con el siguiente comando:  
+
+    python manage.py runserver
 
 4 - Ir a la siguiente url http://127.0.0.1:8000/, alli le saldra la listas de endpoints aunque por ahora solo hay una
